@@ -10,7 +10,7 @@
   <image source="../../tileset/ground/water/pool_corners.png" width="96" height="768"/>
  </tileset>
  <tileset firstgid="107" name="desert" tilewidth="32" tileheight="32">
-  <image source="../../tileset/terrain/desert.png" width="256" height="352"/>
+  <image source="../../tileset/terrain/grassland.png" width="256" height="352"/>
  </tileset>
  <tileset firstgid="195" name="museum" tilewidth="32" tileheight="32">
   <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/museum.png" width="224" height="256"/>

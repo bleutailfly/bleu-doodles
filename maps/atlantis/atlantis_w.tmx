@@ -7,7 +7,7 @@
   <image source="../../tileset/building/wall/int_clay.png" width="320" height="320"/>
  </tileset>
  <tileset firstgid="102" name="desert" tilewidth="32" tileheight="32">
-  <image source="../../tileset/terrain/desert.png" width="256" height="352"/>
+  <image source="../../tileset/terrain/grassland.png" width="256" height="352"/>
  </tileset>
  <tileset firstgid="190" name="stone_ruins" tilewidth="32" tileheight="32">
   <image source="../../tileset/building/stone_ruins.png" width="192" height="384"/>
