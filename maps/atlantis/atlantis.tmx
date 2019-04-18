@@ -9,173 +9,173 @@
  <tileset firstgid="35" name="pool_corners" tilewidth="32" tileheight="32">
   <image source="../../tileset/ground/water/pool_corners.png" width="96" height="768"/>
  </tileset>
- <tileset firstgid="107" name="desert" tilewidth="32" tileheight="32">
+ <tileset firstgid="107" name="grassland" tilewidth="32" tileheight="32">
   <image source="../../tileset/terrain/grassland.png" width="256" height="352"/>
  </tileset>
  <tileset firstgid="195" name="museum" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/museum.png" width="224" height="256"/>
+  <image source="../../tileset/building/museum.png" width="224" height="256"/>
  </tileset>
  <tileset firstgid="251" name="classic_window" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/window/classic_window.png" width="64" height="64"/>
+  <image source="../../tileset/building/window/classic_window.png" width="64" height="64"/>
  </tileset>
  <tileset firstgid="255" name="door_n" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/door/door_n.png" width="96" height="64"/>
+  <image source="../../tileset/building/door/door_n.png" width="96" height="64"/>
  </tileset>
  <tileset firstgid="261" name="closed" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/door/closed.png" width="32" height="32"/>
+  <image source="../../tileset/building/door/closed.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="262" name="blue_stone" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/stairs/blue_stone.png" width="96" height="32"/>
+  <image source="../../tileset/building/stairs/blue_stone.png" width="96" height="32"/>
  </tileset>
  <tileset firstgid="265" name="blue" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/roof/blue.png" width="160" height="128"/>
+  <image source="../../tileset/building/roof/blue.png" width="160" height="128"/>
  </tileset>
  <tileset firstgid="285" name="roof_borders" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/roof/roof_borders.png" width="96" height="96"/>
+  <image source="../../tileset/building/roof/roof_borders.png" width="96" height="96"/>
  </tileset>
  <tileset firstgid="294" name="pot_plant_1" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/indoor/pot_plant_1.png" width="192" height="64"/>
+  <image source="../../tileset/plant/indoor/pot_plant_1.png" width="192" height="64"/>
  </tileset>
  <tileset firstgid="306" name="vine" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/vine.png" width="32" height="96"/>
+  <image source="../../tileset/plant/vine.png" width="32" height="96"/>
  </tileset>
  <tileset firstgid="309" name="suspension_bridge" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/object/suspension_bridge.png" width="96" height="256"/>
+  <image source="../../tileset/object/suspension_bridge.png" width="96" height="256"/>
  </tileset>
  <tileset firstgid="333" name="tan_building" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/tan_building.png" width="128" height="192"/>
+  <image source="../../tileset/building/tan_building.png" width="128" height="192"/>
  </tileset>
  <tileset firstgid="357" name="window_centered" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/window/window_centered.png" width="32" height="32"/>
+  <image source="../../tileset/building/window/window_centered.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="358" name="chimney" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/decoration/chimney.png" width="32" height="64"/>
+  <image source="../../tileset/building/decoration/chimney.png" width="32" height="64"/>
  </tileset>
  <tileset firstgid="360" name="platform" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/decoration/platform.png" width="96" height="96"/>
+  <image source="../../tileset/building/decoration/platform.png" width="96" height="96"/>
  </tileset>
  <tileset firstgid="369" name="archway" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/statue/archway.png" width="96" height="96"/>
+  <image source="../../tileset/item/statue/archway.png" width="96" height="96"/>
  </tileset>
  <tileset firstgid="378" name="seahorse" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/statue/seahorse.png" width="128" height="96"/>
+  <image source="../../tileset/item/statue/seahorse.png" width="128" height="96"/>
  </tileset>
  <tileset firstgid="390" name="lion_statues" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/statue/lion_statues.png" width="64" height="128"/>
+  <image source="../../tileset/item/statue/lion_statues.png" width="64" height="128"/>
  </tileset>
  <tileset firstgid="398" name="romanic_art1" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/statue/romanic_art1.png" width="64" height="64"/>
+  <image source="../../tileset/item/statue/romanic_art1.png" width="64" height="64"/>
  </tileset>
  <tileset firstgid="402" name="plants_potted_stone" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/statue/plants_potted_stone.png" width="96" height="64"/>
+  <image source="../../tileset/item/statue/plants_potted_stone.png" width="96" height="64"/>
  </tileset>
  <tileset firstgid="408" name="gazebo" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/building/gazebo.png" width="96" height="224"/>
+  <image source="../../tileset/building/gazebo.png" width="96" height="224"/>
  </tileset>
  <tileset firstgid="429" name="flower_bed_1" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/flower/flower_bed_1.png" width="224" height="160"/>
+  <image source="../../tileset/plant/flower/flower_bed_1.png" width="224" height="160"/>
  </tileset>
  <tileset firstgid="464" name="small_flower_bed" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/flower/small_flower_bed.png" width="96" height="128"/>
+  <image source="../../tileset/plant/flower/small_flower_bed.png" width="96" height="128"/>
  </tileset>
  <tileset firstgid="476" name="grass_corners" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/ground/grass_corners.png" width="192" height="128"/>
+  <image source="../../tileset/ground/grass_corners.png" width="192" height="128"/>
  </tileset>
  <tileset firstgid="500" name="grass_edges" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/ground/grass_edges.png" width="384" height="96"/>
+  <image source="../../tileset/ground/grass_edges.png" width="384" height="96"/>
  </tileset>
  <tileset firstgid="536" name="foxgloves" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/flower/foxgloves.png" width="64" height="64"/>
+  <image source="../../tileset/plant/flower/foxgloves.png" width="64" height="64"/>
  </tileset>
  <tileset firstgid="540" name="small_flower_bed_2" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/flower/small_flower_bed_2.png" width="96" height="128"/>
+  <image source="../../tileset/plant/flower/small_flower_bed_2.png" width="96" height="128"/>
  </tileset>
  <tileset firstgid="552" name="red_blue_clusters" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/flower/red_blue_clusters.png" width="32" height="128"/>
+  <image source="../../tileset/plant/flower/red_blue_clusters.png" width="32" height="128"/>
  </tileset>
  <tileset firstgid="556" name="pointed_yellow" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/flower/pointed_yellow.png" width="64" height="32"/>
+  <image source="../../tileset/plant/flower/pointed_yellow.png" width="64" height="32"/>
  </tileset>
  <tileset firstgid="558" name="bush_mult_colored" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/bush/bush_mult_colored.png" width="96" height="64"/>
+  <image source="../../tileset/plant/bush/bush_mult_colored.png" width="96" height="64"/>
  </tileset>
  <tileset firstgid="564" name="medium_coloured" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/bush/medium_coloured.png" width="448" height="448"/>
+  <image source="../../tileset/plant/bush/medium_coloured.png" width="448" height="448"/>
  </tileset>
  <tileset firstgid="760" name="bench_iron" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/furniture/chair/bench_iron.png" width="64" height="64"/>
+  <image source="../../tileset/furniture/chair/bench_iron.png" width="64" height="64"/>
  </tileset>
  <tileset firstgid="764" name="fall_trees" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/tree/fall_trees.png" width="256" height="160"/>
+  <image source="../../tileset/plant/tree/fall_trees.png" width="256" height="160"/>
  </tileset>
  <tileset firstgid="804" name="leaves" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/leaves.png" width="128" height="64"/>
+  <image source="../../tileset/plant/leaves.png" width="128" height="64"/>
  </tileset>
  <tileset firstgid="812" name="tree_golden_large" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/tree/tree_golden_large.png" width="128" height="192"/>
+  <image source="../../tileset/plant/tree/tree_golden_large.png" width="128" height="192"/>
  </tileset>
  <tileset firstgid="836" name="tree_golden_small" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/tree/tree_golden_small.png" width="64" height="96"/>
+  <image source="../../tileset/plant/tree/tree_golden_small.png" width="64" height="96"/>
  </tileset>
  <tileset firstgid="842" name="tree_realistic" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/tree/tree_realistic.png" width="128" height="128"/>
+  <image source="../../tileset/plant/tree/tree_realistic.png" width="128" height="128"/>
  </tileset>
  <tileset firstgid="858" name="dead_tree_7" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/tree/dead_tree_7.png" width="128" height="160"/>
+  <image source="../../tileset/plant/tree/dead_tree_7.png" width="128" height="160"/>
  </tileset>
  <tileset firstgid="878" name="dead_tree_5" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/tree/dead_tree_5.png" width="128" height="160"/>
+  <image source="../../tileset/plant/tree/dead_tree_5.png" width="128" height="160"/>
  </tileset>
  <tileset firstgid="898" name="locust_tree" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/tree/locust_tree.png" width="128" height="160"/>
+  <image source="../../tileset/plant/tree/locust_tree.png" width="128" height="160"/>
  </tileset>
  <tileset firstgid="918" name="cobbled_paving" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/ground/cobbled_paving.png" width="32" height="32"/>
+  <image source="../../tileset/ground/cobbled_paving.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="919" name="row_boat" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/object/row_boat.png" width="192" height="160"/>
+  <image source="../../tileset/object/row_boat.png" width="192" height="160"/>
  </tileset>
  <tileset firstgid="949" name="ropes" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/ropes.png" width="64" height="64"/>
+  <image source="../../tileset/item/ropes.png" width="64" height="64"/>
  </tileset>
  <tileset firstgid="953" name="stump_vertical" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/plant/stump/stump_vertical.png" width="32" height="32"/>
+  <image source="../../tileset/plant/stump/stump_vertical.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="954" name="bazaar_table_1" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/furniture/table/bazaar_table_1.png" width="64" height="64"/>
+  <image source="../../tileset/furniture/table/bazaar_table_1.png" width="64" height="64"/>
  </tileset>
  <tileset firstgid="958" name="bazaar_table_2" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/furniture/table/bazaar_table_2.png" width="64" height="96"/>
+  <image source="../../tileset/furniture/table/bazaar_table_2.png" width="64" height="96"/>
  </tileset>
  <tileset firstgid="964" name="bazaar_table_3" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/furniture/table/bazaar_table_3.png" width="64" height="96"/>
+  <image source="../../tileset/furniture/table/bazaar_table_3.png" width="64" height="96"/>
  </tileset>
  <tileset firstgid="970" name="bazaar_table_5" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/furniture/table/bazaar_table_5.png" width="64" height="96"/>
+  <image source="../../tileset/furniture/table/bazaar_table_5.png" width="64" height="96"/>
  </tileset>
  <tileset firstgid="976" name="bazaar_table_4" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/furniture/table/bazaar_table_4.png" width="64" height="96"/>
+  <image source="../../tileset/furniture/table/bazaar_table_4.png" width="64" height="96"/>
  </tileset>
  <tileset firstgid="982" name="sacks" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/sacks.png" width="64" height="32"/>
+  <image source="../../tileset/item/sacks.png" width="64" height="32"/>
  </tileset>
  <tileset firstgid="984" name="grey_plain" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/furniture/table/grey_plain.png" width="96" height="96"/>
+  <image source="../../tileset/furniture/table/grey_plain.png" width="96" height="96"/>
  </tileset>
  <tileset firstgid="993" name="wooden_crates" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/pot/wooden_crates.png" width="96" height="64"/>
+  <image source="../../tileset/item/pot/wooden_crates.png" width="96" height="64"/>
  </tileset>
  <tileset firstgid="999" name="barrels_2" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/pot/barrels_2.png" width="128" height="64"/>
+  <image source="../../tileset/item/pot/barrels_2.png" width="128" height="64"/>
  </tileset>
  <tileset firstgid="1007" name="barrels_1" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/pot/barrels_1.png" width="128" height="64"/>
+  <image source="../../tileset/item/pot/barrels_1.png" width="128" height="64"/>
  </tileset>
  <tileset firstgid="1015" name="pot_tall" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/pot/pot_tall.png" width="32" height="64"/>
+  <image source="../../tileset/item/pot/pot_tall.png" width="32" height="64"/>
  </tileset>
  <tileset firstgid="1017" name="pot_grey" tilewidth="32" tileheight="32">
-  <image source="C:/Users/monica/git/stendhal/tiled/tileset/item/pot/pot_grey.png" width="32" height="32"/>
+  <image source="../../tileset/item/pot/pot_grey.png" width="32" height="32"/>
  </tileset>
  <layer name="0_floor" width="128" height="128">
   <data encoding="base64" compression="gzip">

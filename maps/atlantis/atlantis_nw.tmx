@@ -3,156 +3,27 @@
  <tileset firstgid="1" name="collision" tilewidth="32" tileheight="32">
   <image source="../../tileset/logic/collision.png" width="32" height="32"/>
  </tileset>
- <tileset firstgid="2" name="int_clay" tilewidth="32" tileheight="32">
-  <image source="../../tileset/building/wall/int_clay.png" width="320" height="320"/>
- </tileset>
- <tileset firstgid="102" name="desert" tilewidth="32" tileheight="32">
+ <tileset firstgid="2" name="grassland" tilewidth="32" tileheight="32">
   <image source="../../tileset/terrain/grassland.png" width="256" height="352"/>
  </tileset>
- <tileset firstgid="190" name="stone_ruins" tilewidth="32" tileheight="32">
-  <image source="../../tileset/building/stone_ruins.png" width="192" height="384"/>
- </tileset>
- <tileset firstgid="262" name="blue_circle" tilewidth="32" tileheight="32">
-  <image source="../../tileset/building/decoration/blue_circle.png" width="64" height="64"/>
- </tileset>
- <tileset firstgid="266" name="blue_circle2" tilewidth="32" tileheight="32">
-  <image source="../../tileset/building/decoration/blue_circle2.png" width="64" height="64"/>
- </tileset>
- <tileset firstgid="270" name="rocks_2" tilewidth="32" tileheight="32">
-  <image source="../../tileset/building/decoration/rocks_2.png" width="32" height="64"/>
- </tileset>
- <tileset firstgid="272" name="rocks" tilewidth="32" tileheight="32">
-  <image source="../../tileset/building/decoration/rocks.png" width="96" height="64"/>
- </tileset>
- <tileset firstgid="278" name="green_paving_4" tilewidth="32" tileheight="32">
-  <image source="../../tileset/ground/green_paving_4.png" width="96" height="32"/>
- </tileset>
- <tileset firstgid="281" name="sand" tilewidth="32" tileheight="32">
-  <image source="../../tileset/ground/sand.png" width="32" height="32"/>
- </tileset>
- <tileset firstgid="282" name="slate_tiles" tilewidth="32" tileheight="32">
-  <image source="../../tileset/ground/slate_tiles.png" width="160" height="96"/>
- </tileset>
- <tileset firstgid="297" name="grave_statue_girl" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/gothic/grave_statue_girl.png" width="64" height="96"/>
- </tileset>
- <tileset firstgid="303" name="headstone_2" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/gothic/headstone_2.png" width="32" height="96"/>
- </tileset>
- <tileset firstgid="306" name="large_gravestone" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/gothic/large_gravestone.png" width="96" height="96"/>
- </tileset>
- <tileset firstgid="315" name="tombstone_2" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/gothic/tombstone_2.png" width="64" height="128"/>
- </tileset>
- <tileset firstgid="323" name="slab" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/gothic/slab.png" width="32" height="32"/>
- </tileset>
- <tileset firstgid="324" name="headstone_7" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/gothic/headstone_7.png" width="32" height="32"/>
- </tileset>
- <tileset firstgid="325" name="headstone_2" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/gothic/headstone_2.png" width="32" height="96"/>
- </tileset>
- <tileset firstgid="328" name="big_blue_crystal" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/big_blue_crystal.png" width="128" height="128"/>
- </tileset>
- <tileset firstgid="344" name="blue_crystal" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/blue_crystal.png" width="128" height="96"/>
- </tileset>
- <tileset firstgid="356" name="broken_green_column" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/broken_green_column.png" width="32" height="64"/>
- </tileset>
- <tileset firstgid="358" name="blackened_column" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/blackened_column.png" width="32" height="128"/>
- </tileset>
- <tileset firstgid="362" name="dryad_marble" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/dryad_marble.png" width="64" height="256"/>
- </tileset>
- <tileset firstgid="378" name="crystal_statues" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/crystal_statues.png" width="192" height="64"/>
- </tileset>
- <tileset firstgid="390" name="broken_lion" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/broken_lion.png" width="64" height="96"/>
- </tileset>
- <tileset firstgid="396" name="gazingball_statue" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/gazingball_statue.png" width="96" height="128"/>
- </tileset>
- <tileset firstgid="408" name="green_stone" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/green_stone.png" width="128" height="96"/>
- </tileset>
- <tileset firstgid="420" name="green_stone_2" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/green_stone_2.png" width="64" height="96"/>
- </tileset>
- <tileset firstgid="426" name="green_stone_3" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/green_stone_3.png" width="32" height="96"/>
- </tileset>
- <tileset firstgid="429" name="lion_statues" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/lion_statues.png" width="64" height="128"/>
- </tileset>
- <tileset firstgid="437" name="seahorse" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/seahorse.png" width="128" height="96"/>
- </tileset>
- <tileset firstgid="449" name="skull_carving" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/skull_carving.png" width="64" height="64"/>
- </tileset>
- <tileset firstgid="453" name="stone_dragon" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/statue/stone_dragon.png" width="64" height="128"/>
- </tileset>
- <tileset firstgid="461" name="huge_orb" tilewidth="32" tileheight="32">
-  <image source="../../tileset/item/huge_orb.png" width="64" height="256"/>
- </tileset>
- <tileset firstgid="477" name="pillars_stone" tilewidth="32" tileheight="32">
-  <image source="../../tileset/object/rock/pillars_stone.png" width="192" height="192"/>
- </tileset>
- <tileset firstgid="513" name="row_boat" tilewidth="32" tileheight="32">
-  <image source="../../tileset/object/row_boat.png" width="192" height="160"/>
- </tileset>
- <tileset firstgid="543" name="grasses_swamp" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/grasses_swamp.png" width="192" height="224"/>
- </tileset>
- <tileset firstgid="585" name="mosses" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/mosses.png" width="128" height="128"/>
- </tileset>
- <tileset firstgid="601" name="large_brown" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/bush/large_brown.png" width="96" height="96"/>
- </tileset>
- <tileset firstgid="610" name="large_green" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/bush/large_green.png" width="96" height="96"/>
- </tileset>
- <tileset firstgid="619" name="large_dead" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/bush/large_dead.png" width="32" height="64"/>
- </tileset>
- <tileset firstgid="621" name="large_wide_dead" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/bush/large_wide_dead.png" width="64" height="64"/>
- </tileset>
- <tileset firstgid="625" name="stump_blue_green" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/stump/stump_blue_green.png" width="64" height="64"/>
- </tileset>
- <tileset firstgid="629" name="stump_green" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/stump/stump_green.png" width="64" height="64"/>
- </tileset>
- <tileset firstgid="633" name="dead_tree_7" tilewidth="32" tileheight="32">
+ <tileset firstgid="90" name="dead_tree_7" tilewidth="32" tileheight="32">
   <image source="../../tileset/plant/tree/dead_tree_7.png" width="128" height="160"/>
  </tileset>
- <tileset firstgid="653" name="dead_tree_6" tilewidth="32" tileheight="32">
+ <tileset firstgid="110" name="dead_tree_6" tilewidth="32" tileheight="32">
   <image source="../../tileset/plant/tree/dead_tree_6.png" width="128" height="160"/>
  </tileset>
- <tileset firstgid="673" name="deadtree_snow" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/tree/deadtree_snow.png" width="64" height="160"/>
+ <tileset firstgid="130" name="ground" tilewidth="32" tileheight="32">
+  <image source="../../tileset/ground/ground.png" width="96" height="352"/>
  </tileset>
- <tileset firstgid="683" name="dead_tree_3" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/tree/dead_tree_3.png" width="128" height="128"/>
+ <tileset firstgid="163" name="grass_edges" tilewidth="32" tileheight="32">
+  <image source="../../tileset/ground/grass_edges.png" width="384" height="96"/>
  </tileset>
- <tileset firstgid="699" name="dead_tree_2" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/tree/dead_tree_2.png" width="128" height="160"/>
- </tileset>
- <tileset firstgid="719" name="dead_tree_1" tilewidth="32" tileheight="32">
-  <image source="../../tileset/plant/tree/dead_tree_1.png" width="64" height="160"/>
+ <tileset firstgid="199" name="grass_corners" tilewidth="32" tileheight="32">
+  <image source="../../tileset/ground/grass_corners.png" width="192" height="128"/>
  </tileset>
  <layer name="0_floor" width="128" height="128">
   <data encoding="base64" compression="gzip">
-   H4sIAAAAAAAAC+3XwVEDMRBFQefiWMg/JTKgymXtzg6vD31G0vtg/H69Xu9DfljnVHv9d9K/Tf+2k/1tYJ/T/W1gF/3bruhvA3vo36Z/21X9bWAH/dv0b9O/Tf82/du0b9O/Tf82/du0b9O/Tfs27du0b9O+Tfs2/dv0b/P/X9vJ7392sI/+baf728AuV/S3gT30b7uqvw3scGV/G3g+/dv0b9O/Tf82/du0b9O/Tfs27du0b9O+Tfs27dv0b9O/zed/m/5t+rfp36Z/26n+NrCT/m36t+nfpn+b/m3at+nfpn2b/m3at+nfpn+b/m3at+nfpn2b/m3at2nf5ve/zed/m+9/bd/0t4H99G/Tv037Nv27/O1/nrve+Nv2+t/f4UntbWC+w3R7/efaf9rh9M/b0P/J572qx4Tpt/z0fafPpv8z3nXLOZ9uuvm377nprE+1tf3dd5jupP/Mnab7/Mf+T77jdI//voPpe/513+kzTSt05/4NTN+JmQ1M34O5bUyfEwAAAAAAAAAAAAAAAAAm/ALLaieYAAABAA==
+   H4sIAAAAAAAAC+3OIREAAAgEsK9AZorjCcAhJubXSRoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGCpBwduDQAAyHMAAAEA
   </data>
  </layer>
  <layer name="1_terrain" width="128" height="128">
